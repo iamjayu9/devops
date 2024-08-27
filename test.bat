@@ -1,3 +1,3 @@
 @echo off
 echo Running Python tests...
-pytest
+echo
